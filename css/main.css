@@ -16,6 +16,10 @@ h1, h2, p {
     text-align: center;
 }
 
+h1, h2 {
+    font-family: Impact;
+}
+
 .flavor, .dessert {
     text-align: left;
     width: 75%;
